@@ -1,2 +1,2 @@
 # webactogram-plugin
-(WIP) Browser plugin implementation of Web Actogram
+(WIP) Cross-Browser plugin implementation of Web Actogram
